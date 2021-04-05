@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antoine FIDALGO</h1>
 <h3 align="center">A passionate freelance developer from Paris</h3>
 
-- 🔭 I’m currently working on [todo-api](https://github.com/MShake/bdd-clean-architrecture-todo-api)
+- 🔭 I’m currently working on [todo-api](https://github.com/MShake/bdd-clean-architrecture-todo-api) and [todo-ui](https://github.com/MShake/bdd-clean-architrecture-todo-ui)
 
 - 🌱 I’m currently learning **Clean Architecture, BDD and TDD**
 
